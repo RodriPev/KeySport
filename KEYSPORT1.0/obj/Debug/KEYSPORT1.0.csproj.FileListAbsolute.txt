@@ -1,0 +1,144 @@
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.exe.config
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.exe
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.pdb
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\MySql.Data.dll
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\Google.Protobuf.dll
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\ZstdNet.dll
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\System.Buffers.dll
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\MySql.Data.xml
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csprojAssemblyReference.cache
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.exe.config
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Form1.resources
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Properties.Resources.resources
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.GenerateResource.cache
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.CopyComplete
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.exe
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.pdb
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Form2.resources
+C:\Users\joaqu\source\repos\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Menucs.resources
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.exe.config
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.exe
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.pdb
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\Google.Protobuf.dll
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\ZstdNet.dll
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\System.Buffers.dll
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\MySql.Data.xml
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csprojAssemblyReference.cache
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.exe.config
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Form1.resources
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Form2.resources
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Form4.resources
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Menucs.resources
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Properties.Resources.resources
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.GenerateResource.cache
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.CoreCompileInputs.cache
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.CopyComplete
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.exe
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.pdb
+C:\Users\Lolo\Desktop\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Form3.resources
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.exe.config
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.exe
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.pdb
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\Google.Protobuf.dll
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\ZstdNet.dll
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\System.Buffers.dll
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\MySql.Data.xml
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csprojAssemblyReference.cache
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.exe.config
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Back.resources
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Form1.resources
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Form2.resources
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Form3.resources
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Form4.resources
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Menucs.resources
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Properties.Resources.resources
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.GenerateResource.cache
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.CopyComplete
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.exe
+C:\Users\alumno\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.pdb
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.exe.config
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.exe
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.pdb
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\Google.Protobuf.dll
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\ZstdNet.dll
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\System.Buffers.dll
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\bin\Debug\MySql.Data.xml
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csprojAssemblyReference.cache
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.exe.config
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Back.resources
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Registro.resources
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Menu.resources
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Login.resources
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Properties.Resources.resources
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.GenerateResource.cache
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.CoreCompileInputs.cache
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.CopyComplete
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.exe
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.pdb
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Suscripcion.resources
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.MenuIngresados.resources
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.GestionRes.resources
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.GestorPublicidad.resources
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Resultados.resources
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Cancelar.resources
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.GestionSus.resources
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.MenuSus.resources
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Evento.resources
+C:\Users\Lolo\Downloads\KEYSPORT1.0\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Info.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.exe.config
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.exe
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\bin\Debug\KEYSPORT1.0.pdb
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\bin\Debug\MySql.Data.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\bin\Debug\Google.Protobuf.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\bin\Debug\ZstdNet.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\bin\Debug\System.Buffers.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\bin\Debug\MySql.Data.xml
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csprojAssemblyReference.cache
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.exe.config
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Back.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Cancelar.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Evento.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.GestionRes.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.GestionSus.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.GestorPublicidad.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Info.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.MenuSus.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Registro.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.MenuIngresados.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Menu.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Login.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Properties.Resources.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Resultados.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1._0.Suscripcion.resources
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.GenerateResource.cache
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.csproj.CopyComplete
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.exe
+C:\Users\joaqu\OneDrive\Escritorio\Nueva carpeta\KEYSPORT1.0\obj\Debug\KEYSPORT1.0.pdb
